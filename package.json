@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-degree53-es6",
+  "version": "1.0.0",
+  "description": "ES6 Degree 53 ESLint Config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Degree53/eslint-config-degree53-es6.git"
+  },
+  "author": "Mike Geldard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Degree53/eslint-config-degree53-es6/issues"
+  },
+  "homepage": "https://github.com/Degree53/eslint-config-degree53-es6"
+}
