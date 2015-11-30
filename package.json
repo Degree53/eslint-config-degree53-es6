@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-degree53-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES6 Degree 53 ESLint Config",
   "main": "index.js",
   "repository": {
