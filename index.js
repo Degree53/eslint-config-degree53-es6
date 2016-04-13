@@ -8,7 +8,7 @@ module.exports = {
 		},
 		"ecmaVersion": 6,
 		"sourceType": "module"
-	}
+	},
 
 	"rules": {
 		"arrow-body-style": [ 2, "as-needed" ],
